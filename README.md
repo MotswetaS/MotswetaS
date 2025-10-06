@@ -1,20 +1,43 @@
 
-# Hi there,i'm Rebonye Motsweta
+# Hi there,i'm Rebonye Keabetswe
 
-I am a ux developer residing in Botswana.
+I'm a **UX Designer turned Developer**, currently based in **Botswana** — passionate about designing seamless digital experiences and building systems that scale.  
+
+My journey started in **UX and web design**, where I fell in love with creating products that are both beautiful and functional. Now, I’m expanding my skills into **full-stack development** and **DevOps engineering**, aiming to bridge the gap between design, code, and infrastructure.
+
+---
 
 ## 🚀 About Me
-I love to design and develop beautiful and functional digital experiences.
+💡 I believe that great design doesn’t stop at visuals — it continues into how products are built, deployed, and maintained.  
+🎯 My goal is to become a **DevOps-oriented UX Developer** who can take an idea from concept to deployment.  
+🧩 I enjoy solving problems, learning new tools, and automating processes that make life easier for teams.
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...Attaining my certification as a web dveveloper with Zuri
+---
+## 🧠 What I’m Learning
+- **DevOps fundamentals** (containers, CI/CD, cloud infrastructure)
+- **JavaScript frameworks** (React, Node.js)
+- **UI/UX Design Systems** and accessibility standards
 
-🧠 I'm currently learning...web development
+---
 
-👯‍♀️ I'm looking to collaborate on...Design and development projects
+## 👯‍♀️ Collaboration Goals
+I’m open to collaborating on:
+- **Design-to-code projects**  
+- **Frontend development** with a UX focus  
+- **DevOps automation and CI/CD workflows**
 
+---
 
-⚡️ Fun fact...I love creating funky hairstyles with my 4c hair
+## ⚡️ Fun Fact
+I have **4C hair**, and I love learning about it — from styling to hair science. It’s my creative outlet outside of tech!
+
+---
+
+## 🛠 Skills
+
+**Design:** Figma, Adobe XD, UI/UX Design, Prototyping  
+**Development:** HTML, CSS, JavaScript, Git, GitHub  
+**DevOps (Learning):** Docker, GitHub Actions, Linux, CI/CD pipelines
 
 
 ## 🛠 Skills
